@@ -1,0 +1,16 @@
+# Go stuff
+bin/
+*.exe
+*.log
+*.out
+
+# Go modules cache (not needed in repo)
+vendor/
+
+# OS/System
+.DS_Store
+
+# IDE/editors
+.vscode/
+.idea/
+*.swp
